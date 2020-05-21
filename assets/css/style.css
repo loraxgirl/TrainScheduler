@@ -1,33 +1,61 @@
 body {
-	background-image:               url("../images/fantasy1.jpg");
-    font-family:                    'Nova Square', cursive;
-    background-repeat:              no-repeat;
+    background-image:               url("../images/fantasy2.jpg");
+    background-size:                auto;
+    background-repeat:              repeat-y;
     background-size:                cover;
+    font-family:                    'Nova Square', cursive;
 }
 
 .jumbotron {
-    color: #fff;
-    background-color: darkseagreen;
-    position:           relative;
-    top:                -24px;
-    padding:            4px;
+    font-family:                    'Croissant One', cursive;
+    color:                          darkgoldenrod;
+    background-color:               teal;
+    position:                       relative;
+    top:                            -24px;
+    padding:                        4px;
+}
+
+h1 {
+    color:                          darkgoldenrod;
+    filter:                         drop-shadow(1px 1px 4px #ffd700);
+    -webkit-text-stroke:            1px #765607;
+    font-size:                      300%;
+}
+
+h2 {
+    position:                       relative;
+    top:                            -12px;
+    -webkit-text-stroke:            1px #c69e3c;
 }
 
 .container  {
-    background-color: white;
-    width:              80%;
-    padding:            0px;
+    background-color:               white;
+    width:                          80%;
+    padding:                        0px;
 }
 
+.table {
+    position:                       relative;
+    top:                            -40px;
+    padding:                        4px;
+}
+
+th, .panel-title {
+    font-weight:                    bold;
+}
+
+td  {
+    font-size:                      98%;
+}
 
 div.panel-body {
-    background-image: url();
-    color: black;
+    background-image:               url(../images/white_brick_wall.png);
+    color:                          black;
 }
 
 .btn-primary {
-    background-color: #800000;
-    border-color: #fff;
-    font-weight: bold;
+    background-color:               #800000;
+    border-color:                   #fff;
+    font-weight:                    bold;
 }
 
