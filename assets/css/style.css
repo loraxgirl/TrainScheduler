@@ -1,0 +1,33 @@
+body {
+	background-image:               url("../images/fantasy1.jpg");
+    font-family:                    'Nova Square', cursive;
+    background-repeat:              no-repeat;
+    background-size:                cover;
+}
+
+.jumbotron {
+    color: #fff;
+    background-color: darkseagreen;
+    position:           relative;
+    top:                -24px;
+    padding:            4px;
+}
+
+.container  {
+    background-color: white;
+    width:              80%;
+    padding:            0px;
+}
+
+
+div.panel-body {
+    background-image: url();
+    color: black;
+}
+
+.btn-primary {
+    background-color: #800000;
+    border-color: #fff;
+    font-weight: bold;
+}
+
