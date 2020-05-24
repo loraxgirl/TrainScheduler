@@ -2,16 +2,16 @@
 Week 07 - Homework - Train Scheduler
 
 
-## Description
+## Description 🚡 :aerial_tramway:
 
 FantasyLand Train Schedule is a website where you can find the schedule for trains going to all sorts of wonderful and fantastical locations.
 
 Ever dreamed of going to Hogwarts?
-:mountain_railway:
-Want to take a vacation in Wonderland?
+
+Want to take a vacation in Wonderland? :rocket:
 
 How about a quick trip to Oz, or Middle-Earth?
-
+:rocket:
 On this board, you can probably find a train heading there. 
 
 **And if you don't?  Why not schedule one, yourself?**
